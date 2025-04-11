@@ -13,7 +13,8 @@ Welcome to **AISejong** — an AI-powered SaaS web application that helps users 
 ---
 
 ## 🧱INFRASTRUCTURE
-![AI-wrapper](https://github.com/user-attachments/assets/948ead1a-396f-4e32-8d0b-12992b4491ae)
+
+![AI-wrapper (1)](https://github.com/user-attachments/assets/8610de11-80c2-4ccb-8957-a3bfd2a16c51)
 
 
 ---
